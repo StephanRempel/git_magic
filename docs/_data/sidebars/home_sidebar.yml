@@ -7,24 +7,45 @@ entries:
 - folders:
   - folderitems:
     - output: web,pdf
-      title: Export to modules
-      url: /export.html
+      title: Overview
+      url: /
     - output: web,pdf
-      title: Convert to html
-      url: /export2html.html
+      title: git_magic
+      url: /core
     - output: web,pdf
-      title: Show doc
-      url: /showdoc.html
+      title: 'Git Magic '
+      url: /preface
     - output: web,pdf
-      title: Test functions
-      url: /test.html
+      title: 'Introduction '
+      url: /intro
     - output: web,pdf
-      title: Core functions
-      url: /core.html
+      title: 'Basic Tricks '
+      url: /basic
     - output: web,pdf
-      title: Command line functions
-      url: /cli.html
+      title: 'Cloning Around '
+      url: /clone
+    - output: web,pdf
+      title: 'Branch Wizardry '
+      url: /branch
+    - output: web,pdf
+      title: 'Lessons of History '
+      url: /history
+    - output: web,pdf
+      title: 'Multiplayer Git '
+      url: /multiplayer
+    - output: web,pdf
+      title: 'Git Grandmastery '
+      url: /grandmaster
+    - output: web,pdf
+      title: 'Secrets Revealed '
+      url: /secrets
+    - output: web,pdf
+      title: 'Appendix A: Git Shortcomings '
+      url: /drawbacks
+    - output: web,pdf
+      title: 'Appendix B: Translating This Guide '
+      url: /translate
     output: web
-    title: Notebook
+    title: git_magic
   output: web
   title: Sidebar

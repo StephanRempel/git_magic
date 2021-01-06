@@ -1,10 +1,17 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "git_magic": {
+    "Overview": "/",
+    "git_magic": "/core",
+    "Git Magic ": "/preface",
+    "Introduction ": "/intro",
+    "Basic Tricks ": "/basic",
+    "Cloning Around ": "/clone",
+    "Branch Wizardry ": "/branch",
+    "Lessons of History ": "/history",
+    "Multiplayer Git ": "/multiplayer",
+    "Git Grandmastery ": "/grandmaster",
+    "Secrets Revealed ": "/secrets",
+    "Appendix A: Git Shortcomings ": "/drawbacks",
+    "Appendix B: Translating This Guide ": "/translate"
   }
 }
