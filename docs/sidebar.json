@@ -1,8 +1,6 @@
 {
   "git_magic": {
     "Overview": "/",
-    "git_magic": "/core",
-    "Git Magic ": "/preface",
     "Introduction ": "/intro",
     "Basic Tricks ": "/basic",
     "Cloning Around ": "/clone",

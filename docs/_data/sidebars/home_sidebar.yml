@@ -10,12 +10,6 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: git_magic
-      url: /core
-    - output: web,pdf
-      title: 'Git Magic '
-      url: /preface
-    - output: web,pdf
       title: 'Introduction '
       url: /intro
     - output: web,pdf
